@@ -2,7 +2,7 @@
 ## Author : Liying Li
   c(
     "Baby Shark",
-    "Five Little Monkey Jumping on the Bed",
+    "Five Little Monkeys Jumping on the Bed",
     "Daisy Daisy",
     "Wheel on the Bus",
     "London Bridge Falling Down",
@@ -10,7 +10,7 @@
     "I Caught a Fish Alive",
     "Ten Sausages in a Pan",
     "John Jacob",
-    "Mary HaD a Little Lamb",
+    "Mary Had a Little Lamb",
     "ABC Phonics Song",
     "Rain Rain Go Away",
     "Finger Family",
